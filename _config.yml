@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            David Dornseifer
 locale:           en_US
-url:
+url:			  http://dpdornseifer.github.io
 
 
 # Jekyll configuration
@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  name: David Dornseifer
+  avatar: IMG_0392.jpg
+  bio: "Software Engineer located in Mountain View California who likes to build things and never rejects an opportuntiy for an outdoor adventure"
+  email: 
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -42,8 +42,8 @@ owner:
   bing-verify:
   github: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  xing: #username
+  linkedin: DavidDornseifer
+  xing: David_Dornseifer
   instagram: #username
   lastfm: #username
   tumblr: #username
