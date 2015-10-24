@@ -2,7 +2,7 @@
 
 title:            David Dornseifer
 locale:           en_US
-url:			  http://dpdornseifer.github.io
+url:	
 
 
 # Jekyll configuration
@@ -28,19 +28,19 @@ kramdown:
 owner:
   name: David Dornseifer
   avatar: IMG_0392.jpg
-  bio: "Software Engineer located in Mountain View California who likes to build things and never rejects an opportuntiy for an outdoor adventure"
+  bio: "Software Engineer at SAP"
   email: 
   disqus-shortname:
   twitter: #username
   facebook: #username
   google:
     plus: #username
-    analytics:
+    analytics: UA-69268604-1
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: dpdornseifer
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: DavidDornseifer
   xing: David_Dornseifer
