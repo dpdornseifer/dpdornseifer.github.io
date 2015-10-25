@@ -6,7 +6,7 @@ share: false
 comments: false
 image:
   feature: IMG_0510.jpg
-  credit: Picture taken by David Dornseifer on iPhone 6
+  credit: Picture taken by David Dornseifer
   creditlink:
 ---
 # Projects

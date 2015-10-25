@@ -6,7 +6,7 @@ share: false
 comments: true
 image: 
   feature: IMG_0404.jpg
-  credit: Picture taken by David Dornseifer on iPhone 6
+  credit: Picture taken by David Dornseifer
   creditlink:
 ---
 # Talks
