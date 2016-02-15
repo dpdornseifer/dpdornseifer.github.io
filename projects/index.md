@@ -5,7 +5,7 @@ tags: [David, Dornseiferh, SAP Labs, software, developer, development, continuou
 share: false
 comments: false
 image:
-  feature: IMG_0510.jpg
+  feature: IMG_0578.jpg
   credit: Picture taken by David Dornseifer
   creditlink:
 ---
