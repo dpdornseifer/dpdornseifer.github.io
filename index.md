@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+
 header:
   image: IMG_8725.jpg
   caption: Picture taken by David Dornseifer (Lassen Volcanic, CA, US)
@@ -24,6 +25,7 @@ development by working as a Business Analytics Developer at SAP Labs Palo Alto.
 Furthermore I also worked as a OracleDBA and JAVA Business Service Developer at
 [OpRiskSolutions](http://www.operationalrisksolutions.com/en/) in Darmstadt, Germany.
 
+---
 
 
 ## Contact
