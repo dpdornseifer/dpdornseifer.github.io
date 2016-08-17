@@ -33,11 +33,9 @@ The repo has not yet been published, will do so in the next weeks
 Right now, I'm interested in how you can make python work best for you in
 scale-up and scale-out scenarios and how you can get around the GIL issues if it
 comes to multi-threading and CPU intensive tasks.
-On github there is a small repository available (link) with some `playground`
+On github there is a small repository available [Concurrent Python](https://github.com/dpdornseifer/concurrent_python) with some `playground`
 scripts to explore the behavior and measure the performance.
 
-{: .notice}
-The repo has not yet been published, will do so in the next weeks
 
 ---
 
