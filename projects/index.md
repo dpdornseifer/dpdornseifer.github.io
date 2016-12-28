@@ -22,10 +22,8 @@ especially in the area of deep-learning are really fascinating.
 Here I'm playing around with the technologies available like the `sklern` or
 `tensorflow` libraries and see how they can be used to learn from different kind
 of data and what kind of applications are possible. You can find some
-IPython Notebooks (Jupyter) in this [GitHub]() repository.
+IPython Notebooks (Jupyter) in this [GitHub](https://github.com/dpdornseifer/jupyter_notebooks) repository.
 
-{: .notice}
-The repo has not yet been published, will do so in the next weeks
 
 ---
 
